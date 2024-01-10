@@ -1,0 +1,142 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(0, 0, 0);
+}
+h1{
+    text-align: center;
+}
+h3 {
+       text-align: center;
+}
+nav {
+    color: white;
+    border-top:3px solid white;
+   
+}
+.ggh{
+  position: absolute;
+  right: 900px;
+}
+h1 {
+  
+  color: white;
+}
+h4 {
+    text-align: center;
+    border-bottom: 3px solid white;
+    padding-bottom: 26px;
+
+
+}
+h2 {
+  color: rgb(64, 55, 55);
+  margin-top: 20px;
+}
+h3 {
+  text-align: center;
+ 
+
+  color: white;
+}
+.fly {
+  margin-left: 100px;
+  margin-bottom: 80px;
+}
+.post-img {
+  border-radius:10%;
+  box-shadow: 10px 0px 10px 0 rgb(49, 49, 175);
+  opacity: 0.5;
+  width: 270px;
+  height: 170px;
+
+}
+.post-img:hover {
+  opacity: 1;
+  width: 300px;
+  height: 200px;
+  
+   transition: 0.1s ease-out;
+}
+.logo-1{
+  margin-top: 20px;
+  width: 200px;
+  height: 150px;
+ 
+  
+}
+
+
+.logo-2 {
+  background-color:rgb(12, 19, 52) ;
+}
+.article-but {
+  margin-bottom: 10px ;
+  border-radius: 10%;
+  color: rgb(35, 0, 112);
+  box-shadow: 5px 5px 5px 0 rgb(35, 0, 112);
+}
+.lalala {
+  
+}
+.logo-4 {
+  position: absolute;
+ right: 30px;
+  bottom: 700px;
+
+}
+.footer-text{
+text-align: center;
+color: white;
+position: absolute;
+right: 30px;
+}
+.contacts{
+
+   border-top: 2px solid white;
+}
+.zcxv{
+  background-color: rgb(46, 47, 44);
+  position: absolute;
+  bottom: 5600px;
+}
+.all{
+  text-align: center;
+  color: white;
+  border-top: 3px solid white;
+  
+}
+.logo-5 {
+  position: absolute;
+  left: 8px;
+  top: 310px;
+}
+.logo-5:hover {
+  position: absolute;
+  transform: translateY(1400px);
+  transition: 10s linear;
+}
+.logo-6{
+  position: absolute;
+  right: 5px;
+ 
+}
+.poiu {
+ border-bottom: 1px solid white;
+  border-top: 1px solid white;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
+
+.v{
+    display: flex;
+    justify-content: center;
+    
+}
+
+iframe {
+    margin-left: 25px;
+}
